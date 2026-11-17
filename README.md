@@ -13,6 +13,9 @@ The legs of the following enemies have been removed:
 
 The legs of the Weaversong charm have also been removed.
 
+## Example: Deephunter
+<img width="128" height="128" alt="Deephunter" src="https://github.com/user-attachments/assets/08524552-29a9-4335-a397-48bcda5f53c0" />
+
 ## How to install?
 1. Install [Custom Knight](https://github.com/PrashantMohta/HollowKnight.CustomKnight)
 2. Download the skin from the [releases](https://github.com/AdoraBow/Hollow-Knight-Arachnophobia-Skin/releases/tag/1.0).
