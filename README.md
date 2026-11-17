@@ -26,3 +26,6 @@ The legs of the Weaversong charm have also been removed.
 Unfortunately Custom Knight doesn't allow multiple skins to be selected at the same time. To circumvent this you can merge the skin folders.
 ### Important
 When merging skin folders make sure to manually merge the names.json file under ./Arachnophobia/Swap/GG_Workshop/ otherwise the Nosk Statue replacement will not work.
+
+## The lovely people that helped make this
+Thanks to two of my closest friends i was able to put this together a lot faster, thank you Kazzy and Dark <3
